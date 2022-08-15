@@ -9,7 +9,7 @@ aparentemente o primeiro boot precisa ser manual
 
 - flash
 
-`$fastboot flash recovery ARQUIVO.img`
+`$ fastboot flash recovery ARQUIVO.img`
 
 - desliga segundando o botão por alguns segundos
 - liga segundando as teclas + e - ao mesmo tempo
@@ -24,7 +24,7 @@ enviar o .zip via sideload
 - habilitar sideload
 - enviar o arquivo 
 
-`$adb sideload FILE.zip`
+`$ adb sideload FILE.zip`
 
 - wipe: Internel, Dalviik, Data, Cache
 - reboot
