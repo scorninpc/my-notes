@@ -31,4 +31,5 @@ enviar o .zip via sideload
 
 # Boot loop?
 
-se o aparelho entrar em modo boot loop, segura power. Pode ser preciso fazer 2 ou 3 vezes
+- se o aparelho entrar em modo boot loop, segura power. Pode ser preciso fazer 2 ou 3 vezes
+- Se nem entrar no logo da ROM, entrar no recovery e formatar
